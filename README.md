@@ -1,4 +1,4 @@
 Count-Log-Lines
 ===============
 
-Creates a datastamp and running total of lines added to a file per interval.
+Creates a datestamp and running total display of lines added to a file per interval.
